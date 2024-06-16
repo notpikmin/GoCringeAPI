@@ -1,4 +1,4 @@
-module CringeApi
+module GoCringeAPI
 
 go 1.21rc1
 

@@ -1,4 +1,4 @@
-package CringeApi
+package GoCringeAPI
 
 import (
 	"github.com/dlclark/regexp2"
