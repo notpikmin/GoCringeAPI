@@ -18,7 +18,7 @@ type CringeItem struct {
 
 func DownloadCringeMetric() {
 
-	fullURLFile := "https://rentry.co/CringeMetric2/raw"
+	fullURLFile := "https://pastebin.pl/view/raw/c84cab1f"
 	client := http.Client{
 		CheckRedirect: func(r *http.Request, via []*http.Request) error {
 			r.URL.Opaque = r.URL.Path
